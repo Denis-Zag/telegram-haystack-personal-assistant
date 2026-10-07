@@ -1,0 +1,7 @@
+haystack-ai>=3.3,<4
+httpx>=0.28,<1
+loguru>=0.7,<1
+pinecone-haystack>=6.4,<7
+pydantic-settings>=2.10,<3
+pyTelegramBotAPI>=4.29,<5
+
